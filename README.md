@@ -44,7 +44,7 @@ Five publicly available eye-tracking datasets used are mentioned below
 4. Gaze 360  
 5. Lucknow Dataset 
 
-## all csv files of predicted results of gaze cordinates are also given here on the respective datasets .
+ all csv files of predicted results of gaze cordinates are also given here on the respective datasets .
 
 
 
